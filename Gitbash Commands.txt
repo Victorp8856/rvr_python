@@ -1,0 +1,17 @@
+1. git init
+2. git status
+3. git add .
+4. git status
+5. git remote add origin https://github.com/Prasannarajmallipudi/apssdc_ece.git
+
+6. git config --global user.name 'Prasannarajmallipudi'
+7 git config --global user.email 'prasannarajmallipudi@gmail.com'
+
+8. git commit -m 'First Commit'
+
+9. git push origin master  or git push origin master --force
+
+10. git pull origin master
+
+
+
